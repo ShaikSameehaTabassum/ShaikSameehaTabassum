@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaikSameehaTabassum](https://github.com/ShaikSameehaTabassum)
 
-- 🌐 Let's connect **and collaborate on the exciting intersection of code and creativity. Together, let's build the future one commit at a time! 🚀**
+- 🌐 **Let's connect and collaborate on the exciting intersection of code and creativity. Together, let's build the future one commit at a time! 🚀**
 
 - 📫 How to reach me **shaiksameeha421@gmail.com**
 
@@ -33,5 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameehatabassum&" alt="shaiksameehatabassum" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameehatabassum&" alt="shaiksameehatabassum" /></p>
