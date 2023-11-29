@@ -1,9 +1,13 @@
 <h1 align="center">Hello World 👋, I'm Shaik Sameeha Tabassum</h1>
-<h3 align="center">A Passionate Computer Science Engineer</h3>
+<h3 align="center">A Passionate Computer Science Engineer with a keen interest in cutting-edge technologies. My Journey In The World Of Technology Has Led Me To Explore Various Domains, And I Thrive At The Intersection Of Cloud Computing, Machine Learning, And Artificial Intelligence</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksameehatabassum&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksameehatabassum" /> </p>
+
+- 🔭 I’m currently studying computer science engineering **@Rmd Engineering College**
+
+- ✨ Achievements **Smart India Hackathon: Senior Software Edition, Grand Finalist, August 2022**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaikSameehaTabassum](https://github.com/ShaikSameehaTabassum)
 
